@@ -57,6 +57,7 @@
 .btn:hover {
     background: var(--orange);
     transition: 0.3s;
+    color: black;
 }
 
 .banner__bg{
@@ -68,4 +69,6 @@
     background: #070F19bf;
     z-index: -1;
 }
+
+
 
